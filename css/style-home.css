@@ -2,3 +2,23 @@ body {
   background-color: #93aebf;
 
 }
+
+blockquote {
+  margin:40px;
+}
+
+blockquote::before {
+  content: '“';
+}
+
+blockquote::after {
+  content: '”';
+}
+
+cite {
+  margin-left: 40px;
+}
+
+cite::before {
+  content: '—';
+}
