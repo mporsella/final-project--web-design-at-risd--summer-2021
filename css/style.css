@@ -14,3 +14,7 @@ h1 {
   letter-spacing: 1.75rem;
 }
 
+a {
+  color: #e63fc2;
+  text-decoration: none;
+}
