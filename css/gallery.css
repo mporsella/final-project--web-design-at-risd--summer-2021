@@ -1,0 +1,19 @@
+figcaption {
+  font-size: 1rem;
+  text-align: center;
+  width: 300px;
+}
+
+img {
+  border-radius: 5%;
+  border: 2px solid #232f40;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
