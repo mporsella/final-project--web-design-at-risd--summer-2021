@@ -8,8 +8,6 @@ body {
 }
 
 h1 {
-  background-image: url("../img/border.png");
-  background-repeat: repeat;
   color: #37402A;
   font-family: 'Poller One', cursive;
   font-size: 7rem;
@@ -25,6 +23,17 @@ h2 {
   font-size: 3rem;
   text-align: center;
   padding: 20px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 40px;
+}
+
+li {
+  border: 2px solid #A63B32;
+  padding: 5px 10px;
 }
 
 p {
