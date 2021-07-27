@@ -49,10 +49,6 @@ blockquote::after {
   content: '”';
 }
 
-cite {
-  margin-left: 40px;
-}
-
 cite::before {
   content: '—';
 }
