@@ -7,6 +7,16 @@ body {
   margin: auto;
 }
 
+h1 {
+  background-image: url("../img/border.png");
+  background-repeat: repeat;
+  color: #37402A;
+  font-family: 'Poller One', cursive;
+  font-size: 7rem;
+  height: 225px;
+  padding-top: 80px;
+  text-align: center;
+  text-shadow: 2px 2px 2px #63734C;
 }
 
 blockquote {
