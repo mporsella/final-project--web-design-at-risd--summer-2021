@@ -33,6 +33,12 @@ p {
   text-align: justify;
 }
 
+.blockquote {
+  font-family: 'Caudex', serif;
+  margin: auto;
+  padding: 30px 40px 10px 40px;
+  text-align: center;
+  width: 900px;
 }
 
 blockquote::before {
