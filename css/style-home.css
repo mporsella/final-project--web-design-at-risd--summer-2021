@@ -26,6 +26,13 @@ h2 {
   text-align: center;
   padding: 20px;
 }
+
+p {
+  margin: auto;
+  width: 960px;
+  text-align: justify;
+}
+
 }
 
 blockquote::before {
